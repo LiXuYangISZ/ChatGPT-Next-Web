@@ -90,9 +90,9 @@ export function SideBar(props: { className?: string }) {
       }`}
     >
       <div className={styles["sidebar-header"]}>
-        <div className={styles["sidebar-title"]}>DaLi GPT</div>
+        <div className={styles["sidebar-title"]}>大李 GPT</div>
         <div className={styles["sidebar-sub-title"]}>
-         联系我(2422737092)，搭建属于你自己的chatGPT~
+         联系我(2422737092)，带你搭建属于自己的chatGPT~
         </div>
         <div className={styles["sidebar-logo"]}>
           <ChatGptIcon />
