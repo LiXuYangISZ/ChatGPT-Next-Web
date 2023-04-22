@@ -3,7 +3,7 @@ import { SubmitKey } from "../store/config";
 const cn = {
   WIP: "该功能仍在开发中……",
   Error: {
-    Unauthorized: "现在是未授权状态，请点击左下角设置按钮输入访问密码。",
+    Unauthorized: "现在是未授权状态，请联系微信`LXY18697793203`获取授权， 备注`chatGPT授权` ,获取授权密码。 ![abc](https://blog-photos-lxy.oss-cn-hangzhou.aliyuncs.com/img/202304222120771.png)"
   },
   ChatItem: {
     ChatItemCount: (count: number) => `${count} 条对话`,
